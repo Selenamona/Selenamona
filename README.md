@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Selenamona, a passionate frontEnd web developer.
+A passionate frontEnd web developer.
 
 <!--
 ***Languages and Tools:***
