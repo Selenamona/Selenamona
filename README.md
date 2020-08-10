@@ -17,13 +17,14 @@ Here are some ideas to get you started:
 
 Hi, I'm Selenamona, a passionate frontEnd web developer.
 
+<!--
 ***Languages and Tools:***
 
 <i>Js</i>/<i>Vue</i>/<i>React</i><i>微信小程序</i>/
+-->
 
 💬 Ask me about anything [here](https://github.com/Selenamona/Selenamona/issues)
 
-> I hear and I forget. I see and I remember. I do and I understand. learning, trying, teaching.
 
 [![Selenamona's github stats](https://github-readme-stats.vercel.app/api?username=Selenamona&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
